@@ -1,0 +1,26 @@
+{
+  "name": "bahasa-planet",
+  "version": "0.0.1",
+  "description": "bahasa planet translator library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnusyawall/bahasa-planet.git"
+  },
+  "keywords": [
+    "translator",
+    "open-source",
+    "usefull",
+    "bahasa",
+    "bahasa-planet"
+  ],
+  "author": "ibnusyawall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibnusyawall/bahasa-planet/issues"
+  },
+  "homepage": "https://github.com/ibnusyawall/bahasa-planet#readme"
+}
